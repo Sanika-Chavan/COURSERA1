@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type="text/css" href='mod2.css'>
+</head>
+
+<body>
+<<<<<<< HEAD
+    <h1 class="h1">Our Menu</h1>
+=======
+    
+>>>>>>> a5206259e5b93c443dfec69de85d23ba0d3b5364
+    <div class="d-flex">
+        <div class="box" id="b1">
+            <div class="box_head c1"> Chicken </div>
+            <div class="text1">
+                <p class="para">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, aut. Error, deserunt. Commodi eos, voluptas soluta reprehenderit doloremque assumenda labore unde provident mollitia repellat nihil impedit repellendus expedita, eligendi earum reiciendis ipsam amet quod ex adipisci aspernatur non minus. Similique fugiat aspernatur voluptatibus ratione doloremque!
+                </p>
+            </div>
+        </div>
+        <div class="box" id="b2">
+            <div class="box_head c2"> Beef </div>
+            <div class="text1">
+                <p class="para">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, aut. Error, deserunt. Commodi eos, voluptas soluta reprehenderit doloremque assumenda labore unde provident mollitia repellat nihil impedit repellendus expedita, eligendi earum reiciendis ipsam amet quod ex adipisci aspernatur non minus. Similique fugiat aspernatur voluptatibus ratione doloremque!
+                </p>
+            </div>
+        </div>
+        <div class="box" id="b3">
+            <div class="box_head c3"> Sushi </div>
+            <div class="text1">
+                <p class="para">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, aut. Error, deserunt. Commodi eos, voluptas soluta reprehenderit doloremque assumenda labore unde provident mollitia repellat nihil impedit repellendus expedita, eligendi earum reiciendis ipsam amet quod ex adipisci aspernatur non minus. Similique fugiat aspernatur voluptatibus ratione doloremque!
+                </p>
+            </div>
+        </div>
+        
+        
+    </div>
+
+
+</body>
+
+</html>
