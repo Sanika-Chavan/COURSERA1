@@ -57,10 +57,44 @@
     width: 400px;
 }
 
-
-@media (min-width: 1200px){
-    .d-flex{
+  .d-flex{
         flex-wrap: wrap;
         display: flex;
+    }
+
+@media (min-width: 992px){
+  
+    #b1{
+        width:30%;
+    }
+    #b2{
+        width:30%;
+    }
+    #b3{
+        width:30%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+   
+    #b1{
+        width:40%;
+    }
+    #b2{
+        width:40%;
+    }
+    #b3{
+        width:90%;
+    }
+}
+@media (max-width: 767px){
+   
+    #b1{
+        width:80%;
+    }
+    #b2{
+        width:80%;
+    }
+    #b3{
+        width:80%;
     }
 }
